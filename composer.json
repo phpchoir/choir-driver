@@ -1,0 +1,13 @@
+{
+    "name": "choir/driver",
+    "description": "Abstracted Layer for Swoole and Workerman",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "crazywhalecc",
+            "email": "jesse2061@outlook.com"
+        }
+    ],
+    "require": {}
+}
